@@ -1,0 +1,27 @@
+  1063	16:05	git clone git@github.com:OnlyTrable/hw_12_morning.git
+  1064	16:05	cd hw_12_morning/
+  1065	16:06	git log
+  1066	16:07	git branch -b feature
+  1067	16:08	git branch feature
+  1068	16:08	git branch
+  1069	16:09	git checkout feature
+  1070	16:09	ls -la
+  1071	16:09	ee .gitignore
+  1072	16:10	git log
+  1073	16:10	git status
+  1074	16:11	git add .gitignore
+  1075	16:12	ee README.md
+  1076	16:12	git add README.md
+  1077	16:13	git commit -a -m "Add Linux: домашние задание 12 morning"
+  1078	16:14	git status
+  1079	16:15	git push feature
+  1080	16:15	git push
+  1081	16:16	git push --set-upstream origin feature
+  1082	16:17	git commit --amend
+  1083	16:18	git status
+  1084	16:18	git pull
+  1085	16:20	git checkout main
+  1086	16:20	git merge feature
+  1087	16:21	history > histoty.txt
+  1088	16:21	ee histoty.txt
+
